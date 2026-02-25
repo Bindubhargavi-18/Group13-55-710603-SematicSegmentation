@@ -1,0 +1,6 @@
+After the second week , We organised meeting 3 meeting via offline and online and assinged particular works for each one and those are listed below :
+BinduBhargavi Madduluri - Overseeing the assigned work , arranging meeting and contributing in all works.
+Harshita Kotla - Wrote Code till Exploratory Data Analysis as the Data Engineer role.
+Mohammed Amer  - Created the Block Diagram for U-Net and Fully Convolutional Neural Network(FCN).
+Venkata Chandu Kongani  - Gathered Conference papers through Google Scholar for FCN.
+salva muskan  - Gathered Conference papers through Google Scholar for Attention and Residal U-Net.
