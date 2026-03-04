@@ -1,0 +1,11 @@
+After the Third week, the team conducted three meetings through both offline and online modes to review progress and distribute responsibilities. The assigned roles and contributions are listed below:
+
+Bindu Bhargavi Madduluri (Team Leader) – Guided the team workflow, ensured equal participation among members, coordinated task allocation, and followed up on progress to maintain steady project development.
+
+Harshita Kotla (Coding – Data Processing) – Implemented data preprocessing steps including cleaning, data splitting into training and testing sets, and applied data augmentation techniques.
+
+Mohammed Amer (Model Architecture Diagrams) – Prepared block diagrams for DeepLabV3+ and Residual Attention U-Net architectures.
+
+Venkata Chandu Kongani (Model Evaluation & Implementation) – Developed the model evaluation code and prepared the evaluation workflow/block diagram.
+
+Salva Muskan (Literature Review – Deep Learning Models) – Collected conference papers related to Deep Learning approaches, particularly DeepLab-based models.
