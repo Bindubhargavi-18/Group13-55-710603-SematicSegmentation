@@ -1,0 +1,11 @@
+After the Fourth week, our team conducted three meetings through both offline and online modes to review the progress of the project and coordinate tasks among the members. During these meetings, the work completed so far was discussed, responsibilities were clarified, and efforts were made to ensure that every member contributed effectively to the project development. The roles and contributions of the team members during this stage are outlined below:
+
+Bindu Bhargavi Madduluri (GitHub Coordinator and Project Manager) – Managed the overall project activities and supervised the contributions of all team members. Coordinated the GitHub repository, monitored task progress, and ensured that the team followed the planned workflow and timeline.
+
+Harshita Kotla (Quality Verification and Literature Study) – Cross-checked the work completed by the team members to ensure accuracy and consistency. Also reviewed several research papers related to deep learning–based semantic segmentation to strengthen the theoretical understanding of the project.
+
+Mohammed Amer (Model Development and Architecture Study) – Implemented the coding components up to the stage of model compilation and training configuration. Studied the architecture of the U-Net model and uploaded the architecture representation as part of the project documentation.
+
+Venkata Chandu Kongani (Literature Collection – Evaluation Metrics) – Collected and reviewed conference papers related to evaluation metrics used in segmentation tasks to support the evaluation methodology of the project.
+
+Salva Muskan (Diagram Preparation – Segmentation Metrics) – Prepared the block diagram illustrating the segmentation evaluation metrics workflow used in the project.
