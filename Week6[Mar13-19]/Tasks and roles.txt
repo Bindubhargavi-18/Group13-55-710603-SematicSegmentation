@@ -1,0 +1,11 @@
+After the completion of the fifth week, the team organized three meetings through both online and offline modes to review the progress of the project and ensure proper coordination among all members. During these meetings, the tasks completed by each member were discussed, responsibilities were reassigned where necessary, and the overall progress of the project was monitored to maintain alignment with the planned schedule. The contributions of each team member during this phase are summarized below:
+
+Bindu Bhargavi Madduluri (GitHub Coordinator and Project Manager) – Supervised the overall execution of the project and ensured effective collaboration among the team members. She managed the GitHub repository, monitored task completion, and guided the team to follow the project timeline and workflow effectively.
+
+Harshita Kotla (Architecture Design and Work Supervision) – Studied and designed the architecture of the Improved U-Net model with attention and residual mechanisms. Additionally, she monitored the progress of the implemented components and oversaw the technical work carried out by the team members to ensure correctness and consistency.
+
+Mohammed Amer (U-Net Implementation and Demonstration) – Implemented the coding components related to the U-Net architecture and configured the model structure. He also prepared a demonstration showing the working of the U-Net model through sample images to illustrate how segmentation outputs are generated.
+
+Venkata Chandu Kongani (System and Class Diagram Development) – Designed the system architecture diagram and the class diagram representing the overall structure of the project. These diagrams illustrated the interaction between different modules such as preprocessing, segmentation models, prediction generation, and evaluation metrics.
+
+Salva Muskan (Literature Collection – U-Net Evaluation Studies) – Collected and reviewed several conference papers related to the U-Net algorithm, particularly focusing on studies where multiple classification and segmentation evaluation metrics were implemented. This literature supported the evaluation methodology used in the project.
