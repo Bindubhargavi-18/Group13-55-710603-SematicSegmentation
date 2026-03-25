@@ -1,0 +1,13 @@
+After the completion of the sixth week, the team conducted multiple review meetings in both online and offline modes to evaluate the progress of the project and ensure effective coordination among all members. During these sessions, the work completed by each member was carefully assessed, necessary modifications were suggested, and responsibilities were refined to maintain alignment with the project timeline. These discussions helped in strengthening collaboration and ensuring that all components were progressing systematically.
+
+The contributions of each team member during this phase are summarized below:
+
+Bindu Bhargavi Madduluri (GitHub Coordinator and Project Manager) – Managed the overall project workflow and ensured smooth coordination among team members. She refined the textual content and documentation of the project, improved clarity and structure, and ensured that all updates were properly maintained in the GitHub repository.
+
+Harshita Kotla (Evaluation Study and Research Support) – Collected and analyzed conference papers related to combined evaluation metrics used in segmentation and classification tasks. Her work contributed to strengthening the evaluation framework of the project.
+
+Mohammed Amer (FCN Implementation and Design) – Developed the code for the Fully Convolutional Network (FCN) model and designed its corresponding block diagram. He also worked on defining the architecture of the FCN model to ensure proper understanding and implementation.
+
+Venkata Chandu Kongani (Evaluation Metrics Research – IoU and Dice) – Gathered and reviewed precise conference papers related to Intersection over Union (IoU) and Dice coefficient metrics. His contribution supported the evaluation strategy adopted in the project.
+
+Salva Muskan (Literature Review – FCN Models) – Collected and reviewed conference papers related to Fully Convolutional Networks (FCN). This literature provided a strong theoretical foundation for understanding FCN-based segmentation approaches.
