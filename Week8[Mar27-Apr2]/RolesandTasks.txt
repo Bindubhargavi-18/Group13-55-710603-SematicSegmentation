@@ -1,0 +1,13 @@
+After the completion of the seventh week, the team continued to hold regular review meetings in both online and offline modes to monitor project development and ensure effective collaboration among members. During these sessions, the progress of each component was evaluated, feedback was provided, and necessary refinements were made to maintain consistency with the project objectives. These discussions played a crucial role in improving coordination, resolving challenges, and ensuring that the project progressed in a structured and systematic manner.
+
+The contributions of each team member during this phase are outlined below:
+
+Bindu Bhargavi Madduluri (GitHub Coordinator and Project Manager) – Continued to oversee the overall project execution and team coordination. She focused on enhancing the quality of documentation, restructuring the written content for better clarity, and ensuring that all updates and versions were systematically maintained within the GitHub repository.
+
+Harshita Kotla (Research Support – DeepLab Papers) – Collected and reviewed relevant conference papers related to DeepLab architectures. Her work contributed to expanding the research foundation by incorporating advanced segmentation techniques beyond U-Net-based models.
+
+Mohammed Amer (Semantic Segmentation Process Design) – Developed a detailed block diagram representing the semantic segmentation pipeline. His contribution helped in clearly illustrating the overall workflow from input image processing to final prediction.
+
+Venkata Chandu Kongani (Model Development and U-Net Design) – Worked on implementing the code up to the improved U-Net model. He also designed the architecture of the U-Net model and created corresponding block diagrams, contributing significantly to both the development and visualization aspects of the project.
+
+Salva Muskan (Literature Review – U-Net Models) – Gathered and analyzed conference papers related to U-Net architectures. This work strengthened the theoretical understanding of segmentation models and supported the justification of the chosen approach.
