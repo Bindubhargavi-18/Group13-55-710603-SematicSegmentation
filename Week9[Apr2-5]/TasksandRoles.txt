@@ -1,0 +1,13 @@
+After the completion of the eighth week, the team continued to conduct regular review meetings in both online and offline modes to track progress and ensure smooth coordination among all members. These sessions focused on evaluating the advancements made in different components of the project, identifying areas for improvement, and implementing necessary modifications. Continuous discussions and feedback exchange helped maintain alignment with project goals, improved overall efficiency, and ensured systematic development throughout this phase.
+
+The contributions of each team member during this stage are outlined below:
+
+Bindu Bhargavi Madduluri (GitHub Coordinator and Project Manager) – Continued to manage and coordinate the overall workflow of the project while ensuring effective team collaboration. She refined the project documentation further by improving structure, clarity, and consistency, and maintained proper version control by organizing updates efficiently within the GitHub repository.
+
+Harshita Kotla (Research Support – Ground Truth in Semantic Segmentation) – Collected and reviewed conference papers related to ground truth annotation in semantic segmentation. Her contribution helped strengthen the understanding of data quality, annotation techniques, and their impact on model performance.
+
+Mohammed Amer (Semantic Evaluation Metrics Design) – Developed block diagrams representing key evaluation metrics such as IoU, Dice coefficient, and F1-score. His work provided a clear visual understanding of how model performance is measured in semantic segmentation tasks.
+
+Venkata Chandu Kongani (Model Development – DeepLabV3 Implementation) – Extended the implementation from U-Net to DeepLabV3. He worked on coding the model up to the evaluation stage and designed both block diagrams and architectural representations of the DeepLabV3 model, contributing significantly to both development and visualization.
+
+Salva Muskan (Literature Review – Model Prediction Visualisation for Water Bodies) – Gathered and analyzed conference papers related to model prediction visualisation specifically for water body segmentation. Her work contributed to understanding how visual outputs can be used to interpret and evaluate segmentation performance in real-world scenarios.
