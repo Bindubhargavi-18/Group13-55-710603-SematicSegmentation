@@ -1,0 +1,13 @@
+After the completion of the ninth week, the team continued to hold structured review meetings in both online and offline formats to ensure consistent progress and effective collaboration. These meetings were primarily focused on consolidating the work completed so far, validating the results obtained from different modules, and ensuring that all components of the project were properly documented and integrated. The team also emphasized result verification, code finalization, and maintaining clarity in deliverables. Continuous communication and coordinated efforts enabled the team to achieve a well-organized and result-oriented progression during this phase.
+
+The contributions of each team member during this stage are outlined below:
+
+Bindu Bhargavi Madduluri (GitHub Coordinator and Project Manager) – Continued to oversee and coordinate the overall project workflow while maintaining strong team collaboration. She further refined the documentation using improved structuring and clarity, and ensured proper version control by systematically organizing updates in the GitHub repository. Additionally, she uploaded the final results, ensuring that all outputs were well-documented and accessible.
+
+Harshita Kotla (Research Support – Ground Truth in Semantic Segmentation) – Focused on uploading the individual model results obtained during experimentation. Her contribution ensured that each model’s performance was clearly presented, aiding in comparative analysis and evaluation of segmentation techniques.
+
+Mohammed Amer (Semantic Evaluation Metrics Design) – Uploaded the demo code along with the corresponding results for evaluation metrics. His work helped demonstrate the practical implementation of IoU, Dice coefficient, and F1-score, making the evaluation process more transparent and reproducible.
+
+Venkata Chandu Kongani (Model Development – DeepLabV3 Implementation) – Completed and uploaded the full code of the project, covering all stages from model development to evaluation. His contribution ensured that the project was fully functional, reproducible, and ready for deployment or further experimentation.
+
+Salva Muskan (Literature Review – Model Prediction Visualisation for Water Bodies) – Uploaded the pre-conference materials along with quality-related results. Her work contributed to presenting well-structured research outputs and highlighted the quality assessment of model predictions, supporting the overall credibility of the project.
